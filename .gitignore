@@ -160,3 +160,4 @@ cython_debug/
 .gdb_history
 Dockerfile
 flag.txt
+bin/
